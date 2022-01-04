@@ -114,5 +114,6 @@ int main() {
 	xoaphantuk(l, x);
 	cout << "\nDanh sach lien ke sau khi xoa:";
 	output(l);
+	system("pause");
 	return 0;
 }
